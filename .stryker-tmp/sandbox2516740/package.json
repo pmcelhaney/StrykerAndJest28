@@ -1,0 +1,16 @@
+{
+  "name": "stryker-jest-28",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "stryker run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stryker-mutator/core": "^5.6.1",
+    "@stryker-mutator/jest-runner": "^5.6.1",
+    "jest": "^28.0.1"
+  }
+}
